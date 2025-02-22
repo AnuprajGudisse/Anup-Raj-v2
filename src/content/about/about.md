@@ -1,5 +1,5 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+✌️ Hey there! Nice to meet you! I'm a Data & Software Engineer based in Chicago, Illinois, with a strong passion for *data-driven decision-making*, *web development*, and *AI/ML*.
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
+I thrive at the intersection of *data analytics*, *software engineering*, and *user experience*, constantly exploring how technology can enhance functionality while remaining intuitive and user-centric. With expertise in **Python**, **JavaScript**, **SQL** and **Data Visualization**, I enjoy building intelligent systems, designing clean interfaces, and optimizing user interactions.
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+Outside of work, you’ll find me at Cinemas 🎬, exploring new food spots in Chicago, diving into photography 📸   , or tinkering with creative video edits in Premiere Pro. Oh, and if there’s Pizza involved, count me in! 🍕

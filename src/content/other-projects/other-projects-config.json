@@ -1,64 +1,33 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "id": "other-project-sign",
+        "title": "Sign-Language-Recognization",
+        "year": "Aug 2022 - Dec 2022",
+        "github": "https://github.com/AnuprajGudisse/Sign-Language-Recognization",
+        "tags": ["Python", "Pandas", "OpenCV", "CNN", "Numpy"],
+        "description": "Worked with a team of four to design, train, and optimize a Convolutional Neural Network (CNN) for real-time sign language image recognition using Python, TensorFlow, and OpenCV, achieving 86% accuracy.",
+        "image": "/assets/other-projects/SLR.webp",
+        "jpg": "/assets/other-projects/SLR.jpg"
 
     },
     {
-        "id": "other-project-noq",
-        "title": "NoQ Job Portal",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
-        "demo": "http://noq-client.herokuapp.com/login",
-        "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
-        "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
-        "readMore": "https://hrishikeshpaul.medium.com/noq-a-job-portal-for-college-career-fairs-9996bbb37a1c",
-        "image": "/assets/other-projects/noq.webp",
-        "jpg": "/assets/other-projects/noq.jpeg"
+        "id": "other-project-MRS",
+        "title": "Movie-Recommendation-System",
+        "year": "Jan 2022 - Mar 2022",
+        "github": "https://github.com/AnuprajGudisse/Movie-Recommendation-System",
+        "tags": ["Python", "Pandas", "sklearn"],
+        "description": "Helps in recommending users movies when they searched for a movie. It recommends movies to user using few key elements like genres,keywords,cast and director.",
+        "image": "/assets/other-projects/MRS.webp",
+        "jpg": "/assets/other-projects/MRS.jpg"
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
-        "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
-    },
-    {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
-    },
-    {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "id": "other-project-Annadatha",
+        "title": "Annadatha",
+        "year": "Nov 2019 - Apr 2020",
+        "tags": ["HTML", "CSS", "SQL", "BootStrap","JavaScript", "PHP"],
+        "description": "Annadatha is an online selling platform which provides an easy portal between the Farmers and the Customers. It provides an easy interface for the farmers to add and sell the products and it is easy for the users to buy the products from the portal.",
+        "readMore": "https://drive.google.com/file/d/1LY9h5OjRLoY8NR6Su39HtJeUFe3PxA9D/view?usp=sharing",
+        "image": "/assets/other-projects/annadatha.webp",
+        "jpg": "/assets/other-projects/annadatha.jpeg"
     }
 ]
