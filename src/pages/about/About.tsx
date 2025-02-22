@@ -6,15 +6,15 @@ import { configs, Content, MarkdownFile, useContent } from "shared/content/Conte
 import { Education } from "pages/about/education/Education";
 import { Experience } from "pages/about/experience/Experience";
 import { Skills } from "pages/about/skills/Skills";
-import { VolumeIcon } from "utils/Icons";
+// import { VolumeIcon } from "utils/Icons";
 
 export const About: FC = () => {
     const content = useContent(MarkdownFile.About);
 
-    const onPlay = () => {
-        const audio = new Audio(configs.common.audioFile);
-        audio.play();
-    };
+    // const onPlay = () => {
+    //     const audio = new Audio(configs.common.audioFile);
+    //     audio.play();
+    // };
 
     return (
         <Box>
@@ -33,7 +33,7 @@ export const About: FC = () => {
                             {configs.common.pronunciation}
                         </Text>
 
-                        <Button
+                        {/* <Button
                             size="xs"
                             aria-label="pronunciation button"
                             as={IconButton}
@@ -43,7 +43,7 @@ export const About: FC = () => {
                             onClick={onPlay}
                             data-aos="fade"
                             data-aos-delay="400"
-                        />
+                        /> */}
                     </Flex>
                     <Box pt="4" data-aos="fade-up" data-aos-delay="400">
                         <Content fontSize="lg">{content.about}</Content>
