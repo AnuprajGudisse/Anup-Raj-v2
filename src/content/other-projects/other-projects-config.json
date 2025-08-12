@@ -1,5 +1,15 @@
 [
     {
+        "id": "other-project-spotify-hit-harbor",
+        "title": "Spotify Hit Harbor",
+        "year": "Aug 2023 - Dec 2023",
+        "github": "https://github.com/AnuprajGudisse/Spotify-Hit-Harbor",
+        "tags": ["Python", "Pandas", "NumPy", "SQL", "KNN", "Logistic Regression", "Git"],
+        "description": "Built a predictive model to forecast song success on Spotify using regression and classification techniques, achieving 75% accuracy. Analyzed 41k+ tracks and visualized insights with Power BI to guide marketing strategies.",
+        "image": "/assets/other-projects/SSH1.webp",
+        "jpg": "/assets/other-projects/SSH1.jpg"
+    },
+    {
         "id": "other-project-sign",
         "title": "Sign-Language-Recognization",
         "year": "Aug 2022 - Dec 2022",

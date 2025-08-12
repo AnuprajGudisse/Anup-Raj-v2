@@ -6,18 +6,28 @@
             "degree": "Master of Science in Computer Science",
             "duration": "Aug 2023 - May 2025",
             "content": [
-                "GPA: 3.5/4",
-                "Courses: Data Science, Artificial Intelligence, Database Systems, Deep Learning, Human Computer Interactions, Computer Vision"
+                "GPA: 3.7/4",
+                "Courses: Data Science, Artificial Intelligence, Database Systems, Deep Learning, Human Computer Interactions, Computer Vision, Big Data Visualization"
             ]
         },
         {
             "id": "edu-2",
             "school": "Gokaraju Rangaraju Institute of Engineering and Technology",
-            "degree": "Bachelors in Computer Engineering",
+            "degree": "Bachelors in Information Technology",
             "duration": "Aug 2020 - Jul 2023",
             "content": [
                 "GPA: 8.2/10",
                 "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence, Web Development"
+            ]
+        },
+        {
+            "id": "edu-3",
+            "school": "Government Polytechnic, Masabtank",
+            "degree": "Diploma in Computer Engineering",
+            "duration": "Jul 2017 - May 2020",
+            "content": [
+                "GPA: 8.5/10",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence, Web Development, Java, System Architecture"
             ]
         }
     ],
@@ -25,26 +35,39 @@
         {
             "id": "exp-1",
             "company": "Chicago Transit authority",
-            "position": "Data Analyst Intern",
-            "duration": "May 2024 - Present",
+            "position": "Software Engineer Intern",
+            "duration": "May 2024 - June 2025",
             "description": [
-                "Developed a Training Information System using Django and React.js and built robust ETL pipelines to streamline CTA Bus Maintenance operations, increasing planning efficiency by 80% and expanding user accessibility.",
-                "Designed and maintained ETL pipelines with Python, SQL, and Pandas to process 30+ years of historical data, boosting data accuracy by 80% and reducing processing time by 80% while cutting manual validation efforts by 70%",
-                "Optimized PostgreSQL databases managing 100,000+ training records and created interactive dashboards using Plotly and Power BI, improving query performance by 50% and enhancing data-driven decision-making with over 50% improved resource allocation."
+                "Designed and deployed a full-stack Learning Management System (LMS) using Django, with integrated RESTful APIs, role-based access control (RBAC), and optimized data models to support secure, multi-user access for instructors, managers, and admins.",
+                "Engineered a scalable PostgreSQL database to migrate and modernize 30 years of bus mechanics training data from a legacy DOS-based system, eliminating over 90% of manual recordkeeping and enabling scalable cloud storage via AWS Redshift.",
+                "Built robust ETL pipelines using Python (Pandas), SQL, and Excel to extract, clean, and transform legacy data; implemented data integrity checks and schema standardization, improving validation accuracy by 95% and reducing processing time by 70%.",
+                "Developed a dynamic query interface with advanced filters for searching students, training sessions, and generating transcripts, while resolving historical input inconsistencies by replacing free-text fields with controlled dropdowns to ensure data reliability.",
+                "Integrated Power BI dashboards and embedded analytics within the web application to provide real-time reporting and visual insights, accelerating decision-making and enhancing interdepartmental collaboration across 20+ active users."
+
             ]
         },
         {
             "id": "exp-2",
             "company": "UIC Creative and Digital Services",
-            "position": "Assistant Video Producer",
-            "duration": "Jan 2024 - Present",
+            "position": "Web Developer",
+            "duration": "Nov 2024 - may 2025",
             "description": [
-                "Managed video production, editing, and equipment setup for university events and projects.",
-                "Created engaging content for university social media channels."
+                "Developed and maintained responsive, SEO-optimized websites using WordPress, HTML/CSS, JavaScript, improving page load speed by 40% and maintaining 99.9% uptime; leveraged Jira and Agile workflows to deliver web updates 35% faster across the departments.",
+                "Partnered with cross-functional teams (design, video, content) to implement WCAG-compliant UI enhancements and custom plugins, resulting in a 25% user engagement boost and seamless support for high-impact campaigns across marketing and communications."
             ]
         },
         {
             "id": "exp-3",
+            "company": "UIC Creative and Digital Services",
+            "position": "Assistant Video Analyst",
+            "duration": "Feb 2024 - Nov 2024",
+            "description": [
+                "Analyzed over 5,000 content performance records, identifying trends and KPIs that improved campaign strategies and increased reach by 20%. Built 10+ interactive dashboards using Excel and Power BI, improving reporting efficiency by 35%.",
+                "Conducted A/B testing on 15+ visual content campaigns, leading to a 25% rise in engagement and a 15% boost in social shares. Automated data accuracy checks, improving dataset reliability by 30% across multimedia platforms."
+            ]
+        },
+        {
+            "id": "exp-4",
             "company": "Internshala",
             "position": "Software Engineer Intern",
             "duration": "Aug 2022 - Dec 2022",
@@ -61,14 +84,16 @@
                 "Python",
                 "JavaScript",
                 "C",
+                "C++",
                 "Java",
-                "SQL"
+                "SQL",
+                "TensorFlow"
             ]
         },
         
         {
             "title": "Databases",
-            "tools": ["MySQL", "PostgreSQL", "Firebase"]
+            "tools": ["MySQL", "PostgreSQL", "Firebase", "MongoDB"]
         },
 
         {
@@ -85,8 +110,16 @@
         },
 
         {
+            "title": "Cloud & Platforms",
+            "tools": [
+                "AWS (RedShift, Lambda, S3)",
+                "Azure (Data Factory, Blob, Synapse)",
+                "Docker"
+            ]
+        },
+        {
             "title": "Web",
-            "tools": ["React", "Vue", "NodeJS", "Flask", "Django", "HTML/CSS", "OAuth", "PHP"]
+            "tools": ["React.JS", "TypeScript", "Vue", "Node.JS", "Vite", "Flask", "Django", "HTML/CSS", "OAuth", "PHP", "WordPress"]
         },
 
         {

@@ -1,5 +1,5 @@
-✌️ Hey there! Nice to meet you! I'm a Data & Software Engineer based in Chicago, Illinois, with a strong passion for *data-driven decision-making*, *web development*, and *AI/ML*.
+✌️ **Hey there!** Nice to meet you! I’m a **Software Engineer** based in Chicago, Illinois, and a **recent Master’s graduate in Computer Science** from the **University of Illinois Chicago**. I have a strong passion for *Data Engineering*, *Web Development*, *Computer Vision (CV)*, and *AI/ML*.  
 
-I thrive at the intersection of *data analytics*, *software engineering*, and *user experience*, constantly exploring how technology can enhance functionality while remaining intuitive and user-centric. With expertise in **Python**, **JavaScript**, **SQL** and **Data Visualization**, I enjoy building intelligent systems, designing clean interfaces, and optimizing user interactions.
+I thrive at the intersection of **data analytics**, **software engineering**, and **user experience**, constantly exploring how technology can be both powerful and intuitive. With expertise in **Python**, **JavaScript**, **SQL**, **data visualization**, and **machine learning**, I enjoy building intelligent systems, designing clean interfaces, and optimizing user interactions for impact.  
 
-Outside of work, you’ll find me at Cinemas 🎬, exploring new food spots in Chicago, diving into photography 📸   , or tinkering with creative video edits in Premiere Pro. Oh, and if there’s Pizza involved, count me in! 🍕
+Outside of work, you’ll find me at the movies 🎬, exploring Chicago’s food scene, capturing moments through my camera 📸, or editing videos in Premiere Pro. And if there’s pizza… I’m already there 🍕.  

@@ -1,5 +1,16 @@
 [
     {
+        "id": "featured-project-energy-efficient-isp-qlora",
+        "title": "Energy-Efficient Deep Learning using ISP and QLoRA",
+        "year": "Jan 2025 - May 2025",
+        "location": "University of Illinois Chicago",
+        "github": "https://github.com/AnuprajGudisse/Energy-Efficient-Deep-Learning-using-ISP-and-QLoRA",
+        "tags": ["Python", "PyTorch", "HuggingFace Transformers", "PEFT", "BitsAndBytes", "ISP", "QLoRA", "Model Pruning", "Quantization"],
+        "description": "Developed a sequential pipeline combining Instant Soup Pruning (ISP) and Quantized Low-Rank Adaptation (QLoRA) to optimize LLMs for efficiency. Achieved 30% parameter reduction, 69% memory savings, and 32% faster inference on the Gemma-3-1B model with minimal performance loss.",
+        "image": "/assets/featured-projects/energy-efficient.webp",
+        "jpg": "/assets/featured-projects/energy-efficient.jpeg"
+    },
+    {
         "id": "featured-project-Superhero-Wordle",
         "title": "Superhero Wordle",
         "year": "Jan 2025 - Feb 2025",
@@ -12,15 +23,28 @@
         "jpg": "/assets/featured-projects/Superhero-wordle.jpeg"
     },
     {
-        "id": "featured-project-asctb-SHH",
-        "title": "Spotify Hit Harbor",
-        "year": "Aug 2023 - Dec 2023",
+        "id": "featured-project-BFTP",
+        "title": "Budget-Friendly Trip Planner",
+        "year": "Aug 2024 - Dec 2024",
         "location": "University of Illinois Chicago",
-        "github": "https://github.com/AnuprajGudisse/Spotify-Hit-Harbor",
-        "tags": ["Python", "Pandas", "Numpy", "SQL", "KNN", "Logistic Regression","Git"],
-        "description": "collaborated with team of four to build a predictive model that can forecast the potential success of a song on the platform. It will check how the music world is changing and see how ads and marketing are doing.",
-        "image": "/assets/featured-projects/SSH1.webp",
-        "jpg": "/assets/featured-projects/SSH1.jpg"
+        "demo": "https://hci-report.vercel.app/",
+        "github": "https://github.com/AnuprajGudisse/Budget-Friendly-Trip-Planner",
+        "tags": ["React Native", "TypeScript", "Ruby", "Firebase", "Google Maps API", "OpenAI API", "Node.js"],
+        "description": "Developed a cross-platform app to help users plan budget-friendly trips with optimized routes, attractions, and free activities. Integrated OpenAI API for smart suggestions and Firebase for real-time updates, improving planning efficiency by 40% and reducing travel costs by 25%.",
+        "image": "/assets/featured-projects/BFTP.webp",
+        "jpg": "/assets/featured-projects/BFTP.jpeg"
+    },
+
+    {
+        "id": "featured-project-measure-bigdata",
+        "location": "University of Illinois Chicago",
+        "title": "Predictive Analytics for Vacant Buildings & Crime Trends",
+        "year": "Aug 2024 - Dec 2024",
+        "tags": ["Python", "SQL", "Plotly","GIS", "ARIMA", "K-Means", "Flask","React","Pandas"],
+        "description": "Processed and analyzed 8+ million crime records using SQL and Pandas, uncovering key spatial and temporal crime patterns linked to vacant buildings.",
+        "github":"https://github.com/AnuprajGudisse/524-project",
+        "image": "/assets/featured-projects/vacant.webp",
+        "jpg": "/assets/featured-projects/vacant.jpg"
     },
     {
         "id": "featured-project-visisolve",
@@ -41,16 +65,5 @@
         "description": "VisiSolve employs image processing and ML techniques to recognize handwritten mathematical equations. This project aims to overcome the challenges associated with interpreting handwritten symbols through a series of preprocessing steps and neural network evaluations.",
         "image": "/assets/featured-projects/handwrittenMath-bg.webp",
         "jpg": "/assets/featured-projects/handwrittenMath-bg.jpg"
-    },
-    {
-        "id": "featured-project-measure-bigdata",
-        "location": "University of Illinois Chicago",
-        "title": "Predictive Analytics for Vacant Buildings & Crime Trends",
-        "year": "Aug 2024 - Dec 2024",
-        "tags": ["Python", "SQL", "Plotly","GIS", "ARIMA", "K-Means", "Flask","React","Pandas"],
-        "description": "Processed and analyzed 8+ million crime records using SQL and Pandas, uncovering key spatial and temporal crime patterns linked to vacant buildings.",
-        "github":"https://github.com/AnuprajGudisse/524-project",
-        "image": "/assets/featured-projects/vacant.webp",
-        "jpg": "/assets/featured-projects/vacant.jpg"
     }
 ]
