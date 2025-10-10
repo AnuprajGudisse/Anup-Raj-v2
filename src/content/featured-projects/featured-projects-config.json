@@ -1,5 +1,16 @@
 [
     {
+        "id": "featured-project-moment-story",
+        "title": "Moment — Photography as a Craft",
+        "year": "Sep 2025 - Present",
+        "location": "Remote",
+        "demo": "https://moment-story.vercel.app/",
+        "tags": ["React", "Vite", "Tailwind CSS", "Supabase", "Intersection Observer", "Scroll Animations", "Responsive Design", "Vercel"],
+        "description": "Initiated the project and shipped a responsive homepage for Moment, fusing Tailwind-driven layouts, scroll-triggered reveals, and a Supabase waitlist API to onboard photographers into the curated story platform.",
+        "image": "/assets/featured-projects/moment.webp",
+        "jpg": "/assets/featured-projects/moment.jpg"
+    },
+    {
         "id": "featured-project-energy-efficient-isp-qlora",
         "title": "Energy-Efficient Deep Learning using ISP and QLoRA",
         "year": "Jan 2025 - May 2025",

@@ -4,6 +4,7 @@ import { Box, Container, Center, Spinner } from "@chakra-ui/react";
 import AOS from "aos";
 
 import { NavbarHeight } from "theme";
+import { PrimaryColors } from "theme/colors/Colors";
 import { AboutPageId, WorkPageId } from "utils/useScroll";
 
 import "./App.scss";
@@ -29,7 +30,7 @@ const About = lazy(() => import("pages/about/About").then((module) => ({ default
 
 const Loader: FC = () => (
     <Center w="100%" h="100%">
-        <Spinner size="lg" color="primary.500" />
+        <Spinner size="lg" color={PrimaryColors[500]} />
     </Center>
 );
 
