@@ -6,7 +6,7 @@
         "location": "Remote",
         "demo": "https://moment-story.vercel.app/",
         "tags": ["React", "Vite", "Tailwind CSS", "Supabase", "Intersection Observer", "Scroll Animations", "Responsive Design", "Vercel"],
-        "description": "Initiated the project and shipped a responsive homepage for Moment, fusing Tailwind-driven layouts, scroll-triggered reveals, and a Supabase waitlist API to onboard photographers into the curated story platform.",
+        "description": "Photography-first social platform with a Node.js + Supabase backend, JWT auth, and real-time data sync, deployed on Vercel with CI/CD achieving a 28% reduction in API response time.",
         "image": "/assets/featured-projects/moment.webp",
         "jpg": "/assets/featured-projects/moment.jpg"
     },
@@ -17,7 +17,7 @@
         "location": "University of Illinois Chicago",
         "github": "https://github.com/AnuprajGudisse/Energy-Efficient-Deep-Learning-using-ISP-and-QLoRA",
         "tags": ["Python", "PyTorch", "HuggingFace Transformers", "PEFT", "BitsAndBytes", "ISP", "QLoRA", "Model Pruning", "Quantization"],
-        "description": "Developed a sequential pipeline combining Instant Soup Pruning (ISP) and Quantized Low-Rank Adaptation (QLoRA) to optimize LLMs for efficiency. Achieved 30% parameter reduction, 69% memory savings, and 32% faster inference on the Gemma-3-1B model with minimal performance loss.",
+        "description": "Sequential ISP + QLoRA pipeline that achieved 30% parameter reduction, 69% memory savings, and 32% faster inference on Gemma-3-1B with minimal performance loss.",
         "image": "/assets/featured-projects/energy-efficient.webp",
         "jpg": "/assets/featured-projects/energy-efficient.jpeg"
     },
@@ -26,7 +26,7 @@
         "title": "Superhero Wordle",
         "year": "Jan 2025 - Feb 2025",
         "location": "Chicago",
-        "demo": "https://anuprajgudisse.github.io/superhero-wordle//",
+        "demo": "https://anuprajgudisse.github.io/superhero-wordle/",
         "github": "https://github.com/AnuprajGudisse/superhero-wordle",
         "tags": ["React", "Vite", "NodeJS", "Express", "SQLite", "CSS", "Git"],
         "description": "An interactive arcade-style word-guessing game where players guess superhero names, use hints strategically, and compete on a leaderboard.",
@@ -41,7 +41,7 @@
         "demo": "https://hci-report.vercel.app/",
         "github": "https://github.com/AnuprajGudisse/Budget-Friendly-Trip-Planner",
         "tags": ["React Native", "TypeScript", "Ruby", "Firebase", "Google Maps API", "OpenAI API", "Node.js"],
-        "description": "Developed a cross-platform app to help users plan budget-friendly trips with optimized routes, attractions, and free activities. Integrated OpenAI API for smart suggestions and Firebase for real-time updates, improving planning efficiency by 40% and reducing travel costs by 25%.",
+        "description": "Mobile-first cross-platform trip planner with route visualization, cost estimation, and OpenAI-powered suggestions, improving task completion by 40% and cutting API latency by 35%.",
         "image": "/assets/featured-projects/BFTP.webp",
         "jpg": "/assets/featured-projects/BFTP.jpeg"
     },
@@ -52,7 +52,7 @@
         "title": "Predictive Analytics for Vacant Buildings & Crime Trends",
         "year": "Aug 2024 - Dec 2024",
         "tags": ["Python", "SQL", "Plotly","GIS", "ARIMA", "K-Means", "Flask","React","Pandas"],
-        "description": "Processed and analyzed 8+ million crime records using SQL and Pandas, uncovering key spatial and temporal crime patterns linked to vacant buildings.",
+        "description": "Merged 8M+ records from 10+ years of Chicago crime and building data to train ARIMA and K-Means/DBSCAN models, reaching 75% prediction accuracy for seasonal crime patterns near vacant properties.",
         "github":"https://github.com/AnuprajGudisse/524-project",
         "image": "/assets/featured-projects/vacant.webp",
         "jpg": "/assets/featured-projects/vacant.jpg"
@@ -73,7 +73,7 @@
             "Multi-layer Perceptrons (MLPs)"
         ],
         "github": "https://github.com/AnuprajGudisse/visi-solve-main",
-        "description": "VisiSolve employs image processing and ML techniques to recognize handwritten mathematical equations. This project aims to overcome the challenges associated with interpreting handwritten symbols through a series of preprocessing steps and neural network evaluations.",
+        "description": "CNN-based pipeline using OpenCV and image preprocessing to recognize handwritten mathematical equations with multi-layer perceptron evaluations.",
         "image": "/assets/featured-projects/handwrittenMath-bg.webp",
         "jpg": "/assets/featured-projects/handwrittenMath-bg.jpg"
     }

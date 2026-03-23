@@ -34,97 +34,141 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Chicago Transit authority",
-            "position": "Software Engineer Intern",
-            "duration": "May 2024 - June 2025",
+            "company": "Trossen Robotics",
+            "position": "Full Stack Engineer",
+            "duration": "Dec 2025 - Present",
             "description": [
-                "Designed and deployed a full-stack Learning Management System (LMS) using Django, with integrated RESTful APIs, role-based access control (RBAC), and optimized data models to support secure, multi-user access for instructors, managers, and admins.",
-                "Engineered a scalable PostgreSQL database to migrate and modernize 30 years of bus mechanics training data from a legacy DOS-based system, eliminating over 90% of manual recordkeeping and enabling scalable cloud storage via AWS Redshift.",
-                "Built robust ETL pipelines using Python (Pandas), SQL, and Excel to extract, clean, and transform legacy data; implemented data integrity checks and schema standardization, improving validation accuracy by 95% and reducing processing time by 70%.",
-                "Developed a dynamic query interface with advanced filters for searching students, training sessions, and generating transcripts, while resolving historical input inconsistencies by replacing free-text fields with controlled dropdowns to ensure data reliability.",
-                "Integrated Power BI dashboards and embedded analytics within the web application to provide real-time reporting and visual insights, accelerating decision-making and enhancing interdepartmental collaboration across 20+ active users."
-
+                "Architected and launched Trossen Cloud, a greenfield MLOps SaaS platform, enabling users to fine-tune LLMs on custom datasets and manage models, training jobs, and dataset pipelines end-to-end.",
+                "Engineered backend services for model management and job orchestration using FastAPI and Pydantic; unified the datasets and models APIs, eliminating duplicated logic and reducing endpoint surface area by 30%.",
+                "Owned the complete frontend as sole engineer, translating self-authored Figma designs into a production React + TypeScript (Vite) app with Zod schema validation and Tailwind CSS styling.",
+                "Provisioned full AWS infrastructure (EC2, API Gateway, Lambda, RDS, WAF, SNS, S3, CloudFront) using Terraform IaC and Docker; deployed from local dev to production with automated CI/CD."
             ]
         },
         {
             "id": "exp-2",
-            "company": "UIC Creative and Digital Services",
-            "position": "Web Developer",
-            "duration": "Nov 2024 - may 2025",
+            "company": "Chicago Transit Authority",
+            "position": "Software Engineer",
+            "duration": "May 2024 - May 2025",
             "description": [
-                "Developed and maintained responsive, SEO-optimized websites using WordPress, HTML/CSS, JavaScript, improving page load speed by 40% and maintaining 99.9% uptime; leveraged Jira and Agile workflows to deliver web updates 35% faster across the departments.",
-                "Partnered with cross-functional teams (design, video, content) to implement WCAG-compliant UI enhancements and custom plugins, resulting in a 25% user engagement boost and seamless support for high-impact campaigns across marketing and communications."
+                "Designed and shipped a full-stack LMS serving 20+ departments and 500+ users with Django, React, and PostgreSQL on AWS, featuring RBAC, RESTful APIs, and a responsive multi-role UI.",
+                "Boosted data accuracy by 95% by building a dynamic query interface with advanced filtering, optimized schemas, and real-time D3.js analytics dashboards replacing manual reporting workflows.",
+                "Migrated 30 years of legacy data (~8M records) into the new LMS via automated ETL pipelines (Python/Pandas, SQL); deployed to AWS with GitHub Actions CI/CD achieving zero-downtime rollout."
             ]
         },
         {
             "id": "exp-3",
             "company": "UIC Creative and Digital Services",
-            "position": "Assistant Video Analyst",
-            "duration": "Feb 2024 - Nov 2024",
+            "position": "Assistant Video Producer",
+            "duration": "Feb 2024 - May 2025",
             "description": [
-                "Analyzed over 5,000 content performance records, identifying trends and KPIs that improved campaign strategies and increased reach by 20%. Built 10+ interactive dashboards using Excel and Power BI, improving reporting efficiency by 35%.",
-                "Conducted A/B testing on 15+ visual content campaigns, leading to a 25% rise in engagement and a 15% boost in social shares. Automated data accuracy checks, improving dataset reliability by 30% across multimedia platforms."
-            ]
-        },
-        {
-            "id": "exp-4",
-            "company": "Internshala",
-            "position": "Software Engineer Intern",
-            "duration": "Aug 2022 - Dec 2022",
-            "description": [
-                "Designed and implemented responsive user interfaces using React.js, HTML5, and CSS3, resulting in a 31% increase in user satisfaction and a 12% boost in audience engagement.",
-                "Developed and optimized object-oriented code in Node.js, ensuring 100% compliance with industry and company standards, which improved code maintainability and scalability by 25%."
+                "Grew digital reach by 20% by handling every stage of video production — from on-location shooting and photography to motion graphics and final reel delivery — for campus events and promotional campaigns using Adobe Premiere Pro, Photoshop, and Illustrator.",
+                "Maintained brand consistency across all deliverables by producing visual content for social media and web platforms aligned with university identity guidelines.",
+                "Shortened project delivery timelines by coordinating video production workflows across marketing and design teams in Jira, cutting turnaround time between shoots, edits, and publishing."
             ]
         }
     ],
     "skills": [
         {
-            "title": "Programming",
+            "title": "Languages",
             "tools": [
-                "Python",
                 "JavaScript",
+                "TypeScript",
+                "Python",
+                "SQL",
+                "Java",
                 "C",
                 "C++",
-                "Java",
-                "SQL",
-                "TensorFlow"
+                "C#"
             ]
         },
-        
+        {
+            "title": "Frontend",
+            "tools": [
+                "React",
+                "Next.js",
+                "Redux",
+                "Vue",
+                "HTML5",
+                "CSS3",
+                "Tailwind CSS",
+                "Vite",
+                "Zod",
+                "Figma",
+                "Responsive Design"
+            ]
+        },
+        {
+            "title": "Backend",
+            "tools": [
+                "Node.js",
+                "Express.js",
+                "Django",
+                "Flask",
+                "FastAPI",
+                "REST APIs",
+                "WebSockets",
+                "Pydantic",
+                "OAuth",
+                "PHP",
+                "WordPress"
+            ]
+        },
         {
             "title": "Databases",
-            "tools": ["MySQL", "PostgreSQL", "Firebase", "MongoDB"]
-        },
-
-        {
-            "title": "Data Management & Data Visualization",
             "tools": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "Firebase",
+                "Supabase",
+                "Redis"
+            ]
+        },
+        {
+            "title": "Data & Analytics",
+            "tools": [
+                "Pandas",
+                "TensorFlow",
                 "Power BI",
                 "Tableau",
                 "Spark",
+                "Plotly",
                 "Dbeaver",
-                "PGAdmin",
-                "Pandas",
-                "Plotly"
+                "PGAdmin"
             ]
         },
-
         {
-            "title": "Cloud & Platforms",
+            "title": "Cloud & DevOps",
             "tools": [
-                "AWS (RedShift, Lambda, S3)",
+                "AWS (EC2, S3, CloudFront, Lambda, API Gateway, RDS, WAF, SNS)",
                 "Azure (Data Factory, Blob, Synapse)",
-                "Docker"
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "CI/CD (GitHub Actions)",
+                "Git"
             ]
         },
         {
-            "title": "Web",
-            "tools": ["React.JS", "TypeScript", "Vue", "Node.JS", "Vite", "Flask", "Django", "HTML/CSS", "OAuth", "PHP", "WordPress"]
+            "title": "Testing",
+            "tools": [
+                "Jest",
+                "React Testing Library",
+                "Playwright",
+                "Enzyme"
+            ]
         },
-
         {
             "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Windows", "MS Word", "MS Powerpoint", "Figma", "Canvas"]
+            "tools": [
+                "MacOS",
+                "Linux",
+                "Windows",
+                "VS Code",
+                "Postman",
+                "Jira",
+                "GitHub"
+            ]
         }
     ]
 }

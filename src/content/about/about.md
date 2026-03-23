@@ -1,5 +1,5 @@
-✌️ **Hey there!** Nice to meet you! I’m a **Software Engineer** based in Chicago, Illinois, and a **recent Master’s graduate in Computer Science** from the **University of Illinois Chicago**. I have a strong passion for *Data Engineering*, *Web Development*, *Computer Vision (CV)*, and *AI/ML*.  
+✌️ **Hey there!** Nice to meet you! I'm a **Full Stack Engineer** based in Chicago, Illinois, and a **Master's graduate in Computer Science** from the **University of Illinois Chicago**. I'm currently building **Trossen Cloud**, a greenfield MLOps SaaS platform at **Trossen Robotics**.
 
-I thrive at the intersection of **data analytics**, **software engineering**, and **user experience**, constantly exploring how technology can be both powerful and intuitive. With expertise in **Python**, **JavaScript**, **SQL**, **data visualization**, and **machine learning**, I enjoy building intelligent systems, designing clean interfaces, and optimizing user interactions for impact.  
+I thrive at the intersection of **cloud infrastructure**, **software engineering**, and **user experience** — from provisioning AWS environments with Terraform to shipping polished React UIs from my own Figma designs. With expertise in **TypeScript**, **Python**, **FastAPI**, **React**, and **AWS**, I enjoy building end-to-end systems that are both powerful and intuitive.
 
-Outside of work, you’ll find me at the movies 🎬, exploring Chicago’s food scene, capturing moments through my camera 📸, or editing videos in Premiere Pro. And if there’s pizza… I’m already there 🍕.  
+Outside of work, you'll find me at the movies 🎬, exploring Chicago's food scene, capturing moments through my camera 📸, or editing videos in Premiere Pro. And if there's pizza… I'm already there 🍕.

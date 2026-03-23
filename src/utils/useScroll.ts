@@ -40,7 +40,7 @@ export const useScroll = () => {
         document.addEventListener("scroll", scrollHandler);
 
         return () => {
-            document.removeEventListener("scroll", () => {});
+            document.removeEventListener("scroll", scrollHandler);
         };
     }, []);
 
